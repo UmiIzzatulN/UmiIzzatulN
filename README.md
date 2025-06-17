@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Umi! 🌸  
+### 1st Year Software Engineering Student @ Universiti Teknologi Malaysia (UTM)
 
-<!--
-**UmiIzzatulN/UmiIzzatulN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Get to know me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m **Umi**  
+- 🎨 I'm passionate about **user-centered design** and making tech feel friendly and approachable  
+- 💻 Currently exploring how to design websites and apps that are simple, aesthetic, and easy to use  
+- 🧠 No IT background, just a curious mind diving into Software Engineering  
+- 📫 Reach me via email: **umizzatuln@gmail.com**
+
+
+## 🛠️ What I'm Learning
+
+- HTML & CSS for interactive and accessible layouts  
+- UI/UX basics: color theory, layout design, and usability principles  
+- Figma and wireframing tools to plan intuitive interfaces  
+- Git & GitHub for version control and teamwork
+
+
+## 💡 My Goals
+  
+- Learn how to conduct basic user research and testing  
+- Build apps that help others — especially with clarity and ease  
+- Explore frontend frameworks
+
+> _“Design is not just what it looks like. Design is how it works.” – Steve Jobs_ 🖥️
+
+Thanks for dropping by! 🌸
