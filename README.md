@@ -1,6 +1,5 @@
-# Hello, I'm Umi! 🌸  
-### 1st Year Software Engineering Student @ Universiti Teknologi Malaysia (UTM)
-
+<h1 align="center">Hello, I'm Umi! 🌸</h1>
+<h3 align="center">1st Year Software Engineering Student @ UTM</h3>
 
 ## Get to know me!
 
