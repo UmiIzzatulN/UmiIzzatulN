@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Umi! 🌸</h1>
-<h3 align="center">1st Year Software Engineering Student @ UTM</h3>
+<h2 align="center">1st Year Software Engineering Student @ UTM</h2>
 
 ## Get to know me!
 
