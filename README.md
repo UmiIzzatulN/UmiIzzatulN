@@ -6,7 +6,7 @@
 - 👋 Hi, I’m **Umi**  
 - 🎨 I'm passionate about **user-centered design** and making tech feel friendly and approachable  
 - 💻 Currently exploring how to design websites and apps that are simple, aesthetic, and easy to use  
-- 🧠 No IT background, just a curious mind diving into Software Engineering  
+- 🧠 Just a curious mind diving into Software Engineering  
 - 📫 Reach me via email: **umizzatuln@gmail.com**
 
 
