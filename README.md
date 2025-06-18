@@ -24,6 +24,12 @@
 - Build apps that help others — especially with clarity and ease  
 - Explore frontend frameworks
 
+## 📚 Academic Portfolio
+
+- 📘 [SECP1513 – Technology and Information System](https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System)
+My learning journey in ICT, hardware/software, databases, cloud computing, and more.
+
+
 > _“Design is not just what it looks like. Design is how it works.” – Steve Jobs_ 🖥️
 
 Thanks for dropping by! 🌸
