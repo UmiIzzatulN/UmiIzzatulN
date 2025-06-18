@@ -27,7 +27,7 @@
 ## 📚 Academic Portfolio
 
 - 📘 [SECP1513 – Technology and Information System](https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System)
-My learning journey in ICT, hardware/software, databases, cloud computing, and more.
+  My learning journey in ICT, hardware/software, databases, cloud computing, and more.
 
 
 > _“Design is not just what it looks like. Design is how it works.” – Steve Jobs_ 🖥️
