@@ -26,12 +26,17 @@
 
 ## 📚 Academic Portfolio
 
--<a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
-  <div align="center" style="width: 600px; border: 1px solid #444; border-radius: 10px; background-color: #2c2c3d; padding: 10px;">
-    <h3 style="color: #c792ea;">💻 SECP1513 - Technology & Info System</h3>
-    <p style="color: #ccc;">Coursework, Summary and Reflection for Technology and Information System subject</p>
-  </div>
-</a>
+<table>
+  <tr>
+    <td width="300" valign="top">
+      <a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
+        <strong>💻 SECP1513 - Technology & Info System</strong>
+      </a><br>
+      Coursework, Summary and Reflection for Technology and Information System subject
+    </td>
+  </tr>
+</table>
+
 
 
 > _“Design is not just what it looks like. Design is how it works.” – Steve Jobs_ 🖥️
