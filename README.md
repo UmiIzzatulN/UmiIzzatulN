@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td width="300" valign="top">
+    <td valign="top">
       <a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
         <strong>💻 SECP1513 - Technology & Info System</strong>
       </a><br>
