@@ -26,13 +26,14 @@
 
 ## 📚 Academic Portfolio
 
-> 💻 [**SECP1513 - Technology and Information System**](https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System)  
-> Coursework, Summary and Reflection for Technology and Information System subject
+<table>
+  <tr>
+    <td>
+      <strong>🖥️ <a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
+      SECP1513 - Technology and Information System</a></strong><br>
+      > _Coursework, Summary and Reflection for Technology and Information System subject
+    </td>
+  </tr>
+</table>
 
 
-
-
-
-> _“Design is not just what it looks like. Design is how it works.” – Steve Jobs_ 🖥️
-
-Thanks for dropping by! 🌸
