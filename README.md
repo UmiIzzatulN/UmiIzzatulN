@@ -26,14 +26,8 @@
 
 ## 📚 Academic Portfolio
 
-<table>
-  <tr>
-    <td>
-      <strong>🖥️ <a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
-      SECP1513 - Technology and Information System</a></strong><br>
-      Coursework, Summary and Reflection for Technology and Information System subject
-    </td>
-  </tr>
-</table>
+> 💻 [**SECP1513 - Technology and Information System**](https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System)  
+> Coursework, Summary and Reflection for Technology and Information System subject
+
 
 
