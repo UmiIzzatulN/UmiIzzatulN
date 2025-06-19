@@ -3,7 +3,6 @@
 
 ## Get to know me!
 
-- 👋 Hi, I’m **Umi**  
 - 🎨 I'm passionate about **user-centered design** and making tech feel friendly and approachable  
 - 💻 Currently exploring how to design websites and apps that are simple, aesthetic, and easy to use  
 - 🧠 Just a curious mind diving into Software Engineering  
