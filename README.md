@@ -30,7 +30,7 @@
   <tr>
     <td valign="top">
       <a href="https://github.com/UmiIzzatulN/SECP1513-Technology-and-Information-System" target="_blank">
-        <strong>💻 SECP1513 - Technology & Info System</strong>
+       💻 <strong> SECP1513 - Technology & Information System</strong>
       </a><br>
       Coursework, Summary and Reflection for Technology and Information System subject
     </td>
